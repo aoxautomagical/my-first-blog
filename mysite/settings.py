@@ -25,7 +25,7 @@ SECRET_KEY = '+4_l*jkru1t4ek*v__$auli6z=rwh7ua3&_y3mev@&=j($h5kg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<aoxautomagical>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'aoxautomagical.pythonanywhere.com']
 
 
 # Application definition
